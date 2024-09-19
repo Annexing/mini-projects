@@ -1,2 +1,2 @@
 # mini-projects
-a collection of shorter projects I've done
+a collection of shorter projects and code snippets I've done
